@@ -14,4 +14,4 @@
 
 ```
 
-detail wiki : https://github.com/yangshuting1/wiki/blob/master/java/FreeMark%20%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.md
+detail wiki : https://github.com/yangshuting1/wiki/blob/master/java/FreeMarker%20%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.md
